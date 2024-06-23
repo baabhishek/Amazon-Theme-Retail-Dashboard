@@ -92,5 +92,8 @@ Conclusion:
 
 By leveraging the power of Power BI analytics, this project endeavors to provide stakeholders with invaluable insights into Amazon's garment segment, enabling them to make data-driven decisions and stay ahead in the competitive retail landscape. This dashboard ensures to provide valuable insights into the Amazon garment segment's performance and positioning in the retail industry.
 
+<img width="600" alt="amazon" src="https://github.com/baabhishek/Amazon-Theme-Retail-Dashboard/assets/165395155/08de5926-5452-4d48-8cbb-58af4a0d56ba">
+
+
 Here is the live dashboard link to access:
 https://app.powerbi.com/view?r=eyJrIjoiNjBlZjU4YTktNmM3My00NzIxLThkYWQtODI4ZTM1NjJiNzZkIiwidCI6IjViNDYyNjIyLWI0ZDktNDk5OC05NGQ1LWNiMWJjMTljN2Y5NiJ9&pageName=ReportSection
