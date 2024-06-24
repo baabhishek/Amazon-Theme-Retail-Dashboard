@@ -1,5 +1,7 @@
 # Amazon-Theme-Retail-Dashboard
 Conduct a thorough examination of Amazon's garment segment, encompassing sales data, revenue streams, and unit sales.
+![feature-image--startuptalky](https://github.com/baabhishek/Amazon-Theme-Retail-Dashboard/assets/165395155/a15cf9b4-5ba7-4f77-8a0a-479cbeeb22cb)
+
 
 In an ever-evolving retail landscape, understanding the dynamics of the garment segment is crucial for stakeholders seeking to optimize their business strategies. This project aims to leverage Power BI analytics to delve into the performance of Amazon's garment segment, unraveling key insights into sales trends, revenue generation, and the strategic positioning of the online retail giant in the garment industry.
 
